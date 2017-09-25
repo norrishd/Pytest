@@ -1,0 +1,6 @@
+# ignore compiled python
+*pyc
+
+# ignore cached directories and files created by pytest
+/.cache/*
+/__pycache__
