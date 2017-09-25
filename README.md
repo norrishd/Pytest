@@ -7,5 +7,8 @@ https://docs.pytest.org
 pip install -U pytest
 
 ## Usage
-Navigate to the relevant folder and then simply use `pytest`. All files with "test" in their name will be found and executed.
+Navigate to the relevant folder and then simply enter `pytest`. All files with "test" in their name will be found and executed.
 
+Or to explicitly run test in somefile.py, enter `pytest somefile.py`.
+
+All functions beginner with 'test' in all included files with be executed.
