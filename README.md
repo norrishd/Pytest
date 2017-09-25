@@ -1,5 +1,8 @@
 # Example usage of Pytest library
 
+Just me messing around with some basic examples from the Pytest library:
+https://docs.pytest.org
+
 ## Installation
 pip install -U pytest
 
